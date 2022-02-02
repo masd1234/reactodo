@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/masd1234.io/reactodo/static/css/main.ce232ac8.css",
-    "main.js": "/masd1234.io/reactodo/static/js/main.3a45ec63.js",
-    "index.html": "/masd1234.io/reactodo/index.html",
-    "main.ce232ac8.css.map": "/masd1234.io/reactodo/static/css/main.ce232ac8.css.map",
-    "main.3a45ec63.js.map": "/masd1234.io/reactodo/static/js/main.3a45ec63.js.map"
+    "main.css": "/reactodo/static/css/main.ce232ac8.css",
+    "main.js": "/reactodo/static/js/main.3a45ec63.js",
+    "index.html": "/reactodo/index.html",
+    "main.ce232ac8.css.map": "/reactodo/static/css/main.ce232ac8.css.map",
+    "main.3a45ec63.js.map": "/reactodo/static/js/main.3a45ec63.js.map"
   },
   "entrypoints": [
     "static/css/main.ce232ac8.css",
