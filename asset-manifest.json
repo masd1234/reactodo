@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactodo/static/css/main.9c13e379.css",
-    "main.js": "/reactodo/static/js/main.853c018d.js",
+    "main.css": "/reactodo/static/css/main.9dfebbae.css",
+    "main.js": "/reactodo/static/js/main.15eead72.js",
     "index.html": "/reactodo/index.html",
-    "main.9c13e379.css.map": "/reactodo/static/css/main.9c13e379.css.map",
-    "main.853c018d.js.map": "/reactodo/static/js/main.853c018d.js.map"
+    "main.9dfebbae.css.map": "/reactodo/static/css/main.9dfebbae.css.map",
+    "main.15eead72.js.map": "/reactodo/static/js/main.15eead72.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c13e379.css",
-    "static/js/main.853c018d.js"
+    "static/css/main.9dfebbae.css",
+    "static/js/main.15eead72.js"
   ]
 }
